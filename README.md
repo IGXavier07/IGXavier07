@@ -15,4 +15,6 @@
     <Img align="center" alt="Html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <Img align="center" alt="Html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
-</div>
+</div><br/>
+
+Estudante de análista de sistemas. 
